@@ -1,1 +1,1 @@
-That's only a training project!
+# That's only a training project!
